@@ -1,6 +1,6 @@
 # Resume  
 
-                                  #Samir Khatiwada
+                                  **Samir Khatiwada**
                                   
 Samir_khatiwada@hotmail.com.........808-445-1157 ..........................  LinkedIn Url: Samir-khatiwada
 
