@@ -1,8 +1,10 @@
 # Resume  
 
-                                  **Samir Khatiwada**
+                                  **Samir Khatiwada**  
                                   
-Samir_khatiwada@hotmail.com.........808-445-1157 ..........................  LinkedIn Url: Samir-khatiwada
+                                  
+Samir_khatiwada@hotmail.com         808-445-1157               LinkedIn Url: Samir-khatiwada  
+
 
 **Professional Summary**
 A professional who was trusted to operate independently with minimal supervision throughout his Military Career in the US Army. Has demonstrated ability to use sound judgement and adaptive solutions to facilitate task completion. 
