@@ -29,16 +29,16 @@ A professional who was trusted to operate independently with minimal supervision
     * Designed Wireless Electromagnetic locking mechanism programing the system with Arduino.
     * Created Motion Sensor Enabled Walkway Lighting system for Energy Conservation using Launchpad. 
 
-* Employment
--	U. S Army Jan 2014 – April 2018: Logistics Manager
-   *	Directly responsible for $60 million worth of organizational property.
-   *	Accounted for the health, personal welfare, and training of three soldiers.
-   *	Created a positive environment centered around dignity and respect to all individuals. 
-   *	Has been rated as Top 20 percent in the rater’s evaluation.
-   *	Has placed first out of six in the command supply discipline inspection within the organization.
-   *	Placed the organization’s needs, welfare, and training above his own personal needs.
-   *	Accounted for 100 percent of inventory with zero discrepancies during change in management for consecutive years in 2016, 2017 and 2018.
-   *	Returned organization’s vehicles worth of 25 million dollars without any issues to the Department of the Army in March 2016.
+* Employment  
+U. S Army Jan 2014 – April 2018: Logistics Manager
+    *	Directly responsible for $60 million worth of organizational property.
+    *	Accounted for the health, personal welfare, and training of three soldiers.
+    *	Created a positive environment centered around dignity and respect to all individuals. 
+    *	Has been rated as Top 20 percent in the rater’s evaluation.
+    *	Has placed first out of six in the command supply discipline inspection within the organization.
+    *	Placed the organization’s needs, welfare, and training above his own personal needs.
+    *	Accounted for 100 percent of inventory with zero discrepancies during change in management for consecutive years in 2016, 2017 and 2018.
+    *	Returned organization’s vehicles worth of 25 million dollars without any issues to the Department of the Army in March 2016.
    *	Displayed expertise to laterally transfer equipment in excess of $6 million.
 
 **Volunteer and College Activities**
