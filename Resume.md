@@ -1,10 +1,10 @@
-# Resume  
+
 
                                                 
                                                 # Samir Khatiwada
 *******************************************************************************************************************************
                                   
-#### Samir_khatiwada@hotmail.com         808-445-1157  LinkedIn Url: Samir-khatiwada  
+#### Samir_khatiwada@hotmail.com  808-445-1157   LinkedIn Url: Samir-khatiwada  
 *******************************************************************************************************************************
 
 
@@ -26,8 +26,8 @@ A professional who was trusted to operate independently with minimal supervision
 
 **Professional experiences:**
  * Projects
-  * Designed Wireless Electromagnetic locking mechanism programing the system with Arduino.
-  * Created Motion Sensor Enabled Walkway Lighting system for Energy Conservation using Launchpad. 
+    * Designed Wireless Electromagnetic locking mechanism programing the system with Arduino.
+    * Created Motion Sensor Enabled Walkway Lighting system for Energy Conservation using Launchpad. 
 
 * Employment
 -	U. S Army Jan 2014 – April 2018: Logistics Manager
