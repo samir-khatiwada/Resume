@@ -1,9 +1,10 @@
 # Resume  
 
                                   Samir Khatiwada
+                                  
 Samir_khatiwada@hotmail.com         808-445-1157               LinkedIn Url: Samir-khatiwada
 
-###**Professional Summary**
+**Professional Summary**
 A professional who was trusted to operate independently with minimal supervision throughout his Military Career in the US Army. Has demonstrated ability to use sound judgement and adaptive solutions to facilitate task completion. 
 * Depth Knowledge of Object Oriented Analysis and Design Process. 
 *	Understanding of Relational Data modeling and SQL
@@ -14,12 +15,12 @@ A professional who was trusted to operate independently with minimal supervision
 *	Multilingual (English, Nepali and Hindi). 
 * Secret Clearance
 
-###**Education**
+**Education**
 *	Pursuing Master’s Degree in Information Technology with concentration in Enterprise Software Developer, American Military University (2015- present). 
 *	Bachelors in Electrical and Electronics Engineering with minor in Mathematics, University of North Texas, Denton (2013). 
 *	Associates degree in General Science, North Lake college, Dallas County Community College (2011)
 
-###**Professional experiences:**
+**Professional experiences:**
 -	##Projects##
 * Designed Wireless Electromagnetic locking mechanism programing the system with Arduino.
 * Created Motion Sensor Enabled Walkway Lighting system for Energy Conservation using Launchpad. 
@@ -36,7 +37,7 @@ A professional who was trusted to operate independently with minimal supervision
 *	Returned organization’s vehicles worth of 25 million dollars without any issues to the Department of the Army in March 2016.
 *	Displayed expertise to laterally transfer equipment in excess of $6 million.
 
-###**Volunteer and College Activities**
+**Volunteer and College Activities**
 *	Raised funds and helped 21 families to provide shelter and food during 2015 Nepal earthquake.
 *	Officer of Nepalese Student Association, UNT 2012.
 *	Secretary/Historian of Alpha Zeta Eta (Chapter of Phi Theta Kappa)
@@ -47,7 +48,7 @@ A professional who was trusted to operate independently with minimal supervision
 *	Life time member of Nepal Red Cross Society.
 *	Raised funds and helped 21 families to provide shelter and food during 2015 Nepal earthquake
 
-###**Awards**
+**Awards**
 * Army Commendation Medal and Army good conduct Medal
 *	Recipient of Phi Theta Kappa Transfer Scholarship
 * Recipient of Multi-cultural scholarship, UNT
