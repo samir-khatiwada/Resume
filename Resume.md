@@ -4,7 +4,7 @@
                                                 **Samir Khatiwada**
 *******************************************************************************************************************************
                                   
-#### Samir_khatiwada@hotmail.com (4 x &nbsp;) 808-445-1157                                 LinkedIn Url: Samir-khatiwada  
+#### Samir_khatiwada@hotmail.com &nbsp; &nbsp; &nbsp; &nbsp;  808-445-1157 &nbsp; &nbsp; &nbsp; &nbsp;                                 LinkedIn Url: Samir-khatiwada  
 *******************************************************************************************************************************
 
 
