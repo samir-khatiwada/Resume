@@ -21,7 +21,7 @@ A professional who was trusted to operate independently with minimal supervision
 *	Associates degree in General Science, North Lake college, Dallas County Community College (2011)
 
 **Professional experiences:**
-*Projects
+* Projects
  * Designed Wireless Electromagnetic locking mechanism programing the system with Arduino.
  * Created Motion Sensor Enabled Walkway Lighting system for Energy Conservation using Launchpad. 
 
